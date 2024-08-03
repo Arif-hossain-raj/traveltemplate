@@ -229,7 +229,7 @@
     transition: .5s;
 }
 
-.service-item:hover {
+.bg:hover {
     background: var(--primary);
 }
 
